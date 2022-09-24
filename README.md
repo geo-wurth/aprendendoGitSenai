@@ -3,7 +3,7 @@ Neste respositório aprenderei a utilizar os comandos básicos do github, assim 
 
 ## Comandos básicos utilizado no git
 ### Repositório remoto
-- Item 1
+- comando xpto que faz tal coisa
 - Item 2
 - Item 3
 
